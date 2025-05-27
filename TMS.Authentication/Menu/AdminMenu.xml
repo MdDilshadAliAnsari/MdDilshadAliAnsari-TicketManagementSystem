@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Menus>
+	<Menu Url="~/Home.aspx"  Text="Dash Board" Value="DashBoard" />
+	<Menu Url="javascript:;" Text="Personal Information" Value="PersonalInfo">
+		<SubMenu Url ="~/PersonalDetail.aspx" Text="Personal Detail" Value="PersonalDetail"></SubMenu>
+		<SubMenu Url ="~/EmailDetail.aspx" Text="Email Detail" Value="EmailDetail"></SubMenu>
+		<SubMenu Url ="~/ContactDetail.aspx" Text="Contact Detail" Value="ContactDetail"></SubMenu>
+		<SubMenu Url ="~/ChangePassword.aspx" Text="Change Password" Value="ChangePassword"></SubMenu>
+	</Menu>
+	<Menu Url="javascript:;" Text="Setting" Value="Setting">
+		<SubMenu Url ="~/Master.aspx" Text="Master" Value="Master"></SubMenu>
+		<SubMenu Url ="~/Role.aspx" Text="Role" Value="Role"></SubMenu>
+		<SubMenu Url ="~/Catogories.aspx" Text="Catogories" Value="Catogories"></SubMenu>
+	</Menu>
+	<Menu Url="javascript:;" Text="Ticket" Value="Ticket">
+		<SubMenu Url ="~/AllTicket.aspx" Text="All Ticket" Value="AllTicket"></SubMenu>
+		<SubMenu Url ="~/OperationTicket.aspx" Text="Operation Ticket" Value="OperationTicket"></SubMenu>
+		<SubMenu Url ="~/ManualTicket.aspx" Text="Manual Ticket" Value="ManualTicket"></SubMenu>
+	</Menu>
+	<Menu Url="javascript:;" Text="Customer" Value="Customer">
+		<SubMenu Url ="~/AllCustomer.aspx" Text="All AllCustomer" Value="AllCustomer"></SubMenu>
+		<SubMenu Url ="~/ActivityCustomer.aspx" Text="Activity Customer" Value="Activity Customer"></SubMenu>
+	</Menu>
+	<Menu Url="javascript:;" Text="Analytics" Value="Analytics">
+		<SubMenu Url ="~/MainAnalytics.aspx" Text="MainAnalytics" Value="Main Analytics"></SubMenu>
+		<SubMenu Url ="~/DifferentAnalytics.aspx" Text="Different Analytics" Value="Different Analytics"></SubMenu>
+	</Menu>
+	<Menu Url="~/About.aspx" Text="About" Value="About Us Page" />
+	<Menu Url="~/Contact.aspx" Text="Contact" Value="Contact Us Page" />
+	
+</Menus>

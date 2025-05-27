@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Published\TMS.Authentication</_PublishTargetUrl>
+    <History>True|2025-05-12T06:50:38.4317087Z;False|2025-05-12T12:19:54.7617180+05:30;True|2025-05-12T12:08:53.2442167+05:30;True|2025-05-12T12:08:33.6431078+05:30;False|2025-05-12T12:08:09.1025598+05:30;True|2025-05-09T17:57:38.1606731+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
